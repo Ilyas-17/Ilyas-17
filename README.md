@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ilyas-17
+- 👋 Hi my name is ilyas. i am from cianjur city, west java, indonesia
 - 👀 I’m interested in web programing
 - 🌱 I’m currently learning frontend web
 - 💞️ I’m looking to collaborate on 
